@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-
-파이토치_이하람
-조성진
->>>>>>> f7ed911 (add name)
-=======
-PyTorch_조민성
->>>>>>> Add Name
+파이토치_이하람<br>
+조성진<br>
+PyTorch_조민성<br>
+Yorkie_고성태<br>
